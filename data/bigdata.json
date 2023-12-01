@@ -1,0 +1,646 @@
+{
+    "USD": {
+        "BUY": [
+            {
+                "bc0ac60a-7dc8-4c2f-a161-48f39b468d5b": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/115294577/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "94.43",
+                    "price": 0.98,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "f62d072c-8c94-4f8f-90b5-4f43a39a08fc": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/22947885/USDT/USD/item",
+                    "minLimit": "10",
+                    "maxLimit": "98",
+                    "price": 0.98,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "5f468970-0de1-4791-af0e-887b25d4f86e": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=scc24fe4436e830069ebd866d347f9258",
+                    "minLimit": "40.40",
+                    "maxLimit": "54.88",
+                    "price": 0.99,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "9f935044-d0bb-41ad-b65d-cf4f2130f046": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2af37db87c0a3137a5db13378e6566b6",
+                    "minLimit": "15.15",
+                    "maxLimit": "60.30",
+                    "price": 0.99,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "f02739df-c93b-4118-b522-e70238885393": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s28426471f6343251ae4d05f15f83dd76",
+                    "minLimit": "40.40",
+                    "maxLimit": "300.01",
+                    "price": 0.99,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "37a5b19a-8c0a-44b6-a916-1a376576df93": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s66766651600d3eacacdc6d8dbf00118a",
+                    "minLimit": "30.30",
+                    "maxLimit": "188.43",
+                    "price": 0.99,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "a27c8e85-35ae-452d-ba96-21ce2e1912e1": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/79745203/USDT/USD/item",
+                    "minLimit": "5",
+                    "maxLimit": "53.89",
+                    "price": 0.99,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "45a3853d-7d79-4b58-87d6-6836b24ada34": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf33fdde7e14039d1809da2aac0e8e2f0",
+                    "minLimit": "15.13",
+                    "maxLimit": "56.95",
+                    "price": 0.991,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "f4c7b6db-d2a5-4886-b20e-b3d7bb9e3b13": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s16d4c521ec603b43af638183bf010a2e",
+                    "minLimit": "10.09",
+                    "maxLimit": "48.40",
+                    "price": 0.991,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "57ce74ba-4a4c-401c-8fe1-66e2a0126a8f": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s312c4444c40233f68dd408ea5c1334c9",
+                    "minLimit": "151.36",
+                    "maxLimit": "342.91",
+                    "price": 0.991,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "bac0f2b0-f220-48f6-9e1b-9e1cb5bf65ac": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5d4d687affdc3a6cad63d8942b7f40a1",
+                    "minLimit": "30.27",
+                    "maxLimit": "97.31",
+                    "price": 0.991,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "e45cbb25-7e14-4bbe-a555-a40ca41a548a": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1a9c27b3d33b3986998ee154d7f7297c",
+                    "minLimit": "15.13",
+                    "maxLimit": "493.77",
+                    "price": 0.991,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "4e912ae0-9334-4621-a3c7-f0f7e3d74534": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s624640383cb93a9fbdd8f1baa6ed1d5f",
+                    "minLimit": "30.24",
+                    "maxLimit": "43.63",
+                    "price": 0.992,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "75fefe68-2ee0-4af4-8166-e5f6fea8904b": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/458441710",
+                    "minLimit": "55.00",
+                    "maxLimit": "955.00",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "3ccbd592-2d75-4489-9520-bb3082b49b73": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/21432402/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "30",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "336d4e37-857a-4e5e-8c35-2f7e5578e71d": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/13890431/USDT/USD/item",
+                    "minLimit": "10",
+                    "maxLimit": "50",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "bdee42ff-fcdf-4af4-b23f-c80899dc81df": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/2057714/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "51",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "3647ed9f-cec4-4743-aacf-df120e02c31c": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/26247229/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "80",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "ddf47b13-7968-4c82-a9ae-59e69646cd56": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/55058260/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "25",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "2b5971f0-6cfb-4040-8b54-0621a4b3f0ed": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/73639859/USDT/USD/item",
+                    "minLimit": "2",
+                    "maxLimit": "3.41",
+                    "price": 1.0,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "cabf5d7e-3a1c-446c-9455-312badee2d22": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/466677898",
+                    "minLimit": "10.00",
+                    "maxLimit": "2000.00",
+                    "price": 1.01,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "499dccb5-2578-4a46-948c-e6bf30cfac9c": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/258882252",
+                    "minLimit": "10.00",
+                    "maxLimit": "1806.00",
+                    "price": 1.01,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "261e0aca-e639-4154-bab3-bfed9280a469": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/439409707",
+                    "minLimit": "20.00",
+                    "maxLimit": "3000.00",
+                    "price": 1.01,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "dcc4fba2-ae79-47b3-a170-d6addf85fa67": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/400888200",
+                    "minLimit": "100.00",
+                    "maxLimit": "1347.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "6b1a9871-b410-446f-8289-05b9de21fa2d": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/440293446",
+                    "minLimit": "500.00",
+                    "maxLimit": "6939.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "af7b5767-2f69-403d-b889-d19dcf113797": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/385380138",
+                    "minLimit": "10.00",
+                    "maxLimit": "228.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "51eb791d-1ede-46d7-b641-57e3163fbf59": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/424266158",
+                    "minLimit": "100.00",
+                    "maxLimit": "536.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "a2184764-ad0b-44ae-89d3-0a64da33b6fd": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/405924130",
+                    "minLimit": "10.00",
+                    "maxLimit": "51.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "cd082939-7798-4b7e-b967-13fa5b17c558": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/404841546",
+                    "minLimit": "50.00",
+                    "maxLimit": "1530.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            }
+        ],
+        "SELL": [
+            {
+                "30cee8a5-bb78-4f5e-a8f0-b72ca08213f6": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/473992389",
+                    "minLimit": "100.00",
+                    "maxLimit": "280.00",
+                    "price": 1.2,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "5860c119-10b7-4551-8096-cf194206947c": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/458441710",
+                    "minLimit": "100.00",
+                    "maxLimit": "7500.00",
+                    "price": 1.17,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "1ba64739-0c22-4008-8e3f-9eb8138b5fbb": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s29867d566f70337490041cddc62b93b6",
+                    "minLimit": "181.81",
+                    "maxLimit": "1500.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "dcea5b2b-82e2-4c1c-9e43-7ee848b34867": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s68e270637387369189144fffa22bce49",
+                    "minLimit": "90.90",
+                    "maxLimit": "500.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "eec0b28a-38f6-40e2-ab5d-caaa39414222": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6682ed1b16d538efa9186165884dafea",
+                    "minLimit": "272.72",
+                    "maxLimit": "800.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "2c624f4a-8c74-4c86-ae51-cf7f5a6adfe2": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa11de4d266d73228a2a1d7c79622eaf5",
+                    "minLimit": "13.63",
+                    "maxLimit": "2500.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "f64c0d70-1959-4afd-85ca-09bd0b9c393b": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s43ad152319f5308880a414ff0ad1ecdd",
+                    "minLimit": "909.09",
+                    "maxLimit": "5000.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "116173ec-f517-4593-af4c-d943c0c5e2f9": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s695142f30a4435f79aa942a634598b71",
+                    "minLimit": "363.63",
+                    "maxLimit": "3000.00",
+                    "price": 1.1,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "303b58a0-920b-4881-9890-4626de2666c4": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9cea74e4dd473c8ba3ed7c6125503c7c",
+                    "minLimit": "46.08",
+                    "maxLimit": "100.00",
+                    "price": 1.085,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "ef488818-c969-4df3-a139-459ba08f11ba": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/464605754",
+                    "minLimit": "1320.00",
+                    "maxLimit": "25000.00",
+                    "price": 1.08,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "1e871818-492b-4b12-80e8-1244588b5347": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/459563435",
+                    "minLimit": "14000.00",
+                    "maxLimit": "20000.00",
+                    "price": 1.06,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "4a07a387-1c47-4801-aa95-631865b486f8": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9c7c928ebbfa303687900ca991917d0f",
+                    "minLimit": "951.47",
+                    "maxLimit": "7500.00",
+                    "price": 1.051,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "d1ab432b-96f4-4dff-b9c8-86a29241e46d": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/451466092",
+                    "minLimit": "20.00",
+                    "maxLimit": "50.00",
+                    "price": 1.05,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "4684d0bc-815d-413c-ac7c-57694e5460bd": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/244604129",
+                    "minLimit": "1.00",
+                    "maxLimit": "500.00",
+                    "price": 1.05,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "975a0b1e-5e8c-4995-9cbc-49e949ab8e43": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb512bb164d8536e3a1715d655ceee4e2",
+                    "minLimit": "9.61",
+                    "maxLimit": "3070.08",
+                    "price": 1.04,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "97a0f898-08b4-4268-8957-1d7088fe4490": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/17580701",
+                    "minLimit": "5000.00",
+                    "maxLimit": "200000.00",
+                    "price": 1.04,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "58b8f918-626d-4c3f-a72a-9e6703c11716": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/415727762",
+                    "minLimit": "2500.00",
+                    "maxLimit": "2500.00",
+                    "price": 1.04,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "8d3b14d9-52a5-4bf8-810b-05787a0bb624": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/25353237/USDT/USD/item",
+                    "minLimit": "25",
+                    "maxLimit": "3782.32",
+                    "price": 1.04,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "487082cb-7284-4293-b25e-8cf33022da1a": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/66802196/USDT/USD/item",
+                    "minLimit": "100",
+                    "maxLimit": "10000",
+                    "price": 1.04,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "11505f82-7367-4229-8702-79e789b3fb96": {
+                    "exchange": "Binance",
+                    "userLink": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sde15b21885a83a2c97282df68a7b2fa1",
+                    "minLimit": "481.69",
+                    "maxLimit": "570.29",
+                    "price": 1.038,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "27c763ec-3022-4c50-8871-487d775fe381": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/56282053/USDT/USD/item",
+                    "minLimit": "10",
+                    "maxLimit": "30.9",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "6faac268-4666-4304-be19-89e0b20b0a3d": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/25365710/USDT/USD/item",
+                    "minLimit": "10",
+                    "maxLimit": "5000",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "8cd4a7ee-85e6-4797-a9bd-5e9269c41651": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/56519956/USDT/USD/item",
+                    "minLimit": "50",
+                    "maxLimit": "820",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "872ca266-9e89-4e0d-a3fa-a6f9419c972a": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/13674111/USDT/USD/item",
+                    "minLimit": "25",
+                    "maxLimit": "824",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "37bf410e-4534-4089-8017-33ea54c166d7": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/110408200/USDT/USD/item",
+                    "minLimit": "71",
+                    "maxLimit": "71.99",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "270c4822-6d8c-4295-8e14-9abc3bd99e9b": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/109304061/USDT/USD/item",
+                    "minLimit": "30",
+                    "maxLimit": "256.58",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "0d248239-28ee-44aa-9e12-0c1fa27e0f83": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/14630636/USDT/USD/item",
+                    "minLimit": "40",
+                    "maxLimit": "40.5",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "2a6684d6-408a-4772-9168-3ecbbab852a1": {
+                    "exchange": "Bybit",
+                    "userLink": "https://www.bybit.com/fiat/trade/otc/profile/13284999/USDT/USD/item",
+                    "minLimit": "10",
+                    "maxLimit": "200",
+                    "price": 1.03,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            },
+            {
+                "7e54ff6f-5650-4cdc-ac4a-e79ce082b135": {
+                    "exchange": "Poloniex",
+                    "userLink": "https://poloniex.com/p2p/merchant/286838198",
+                    "minLimit": "100.00",
+                    "maxLimit": "20000.00",
+                    "price": 1.02,
+                    "currency": "USD",
+                    "coin": "USDT"
+                }
+            }
+        ]
+    }
+}
